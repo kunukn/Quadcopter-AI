@@ -52,6 +52,7 @@ pip install git+https://github.com/AlexandreSajus/Quadcopter-AI.git
 **If you want to run the balloon game:**
 
 ```bash
+cd src
 python -m quadai
 ```
 
@@ -61,6 +62,7 @@ python -m quadai
 **If you want to run the snowglobe game:**
 
 ```bash
+cd src
 python -m quadai snowglobe
 ```
 
